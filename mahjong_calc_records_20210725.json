@@ -12382,5 +12382,435 @@
         "wind" : 2
       }
     ]
+  },
+  {
+    "publicID" : "C4DB4972-64B3-4674-B87A-9E195BB13938",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 647730754.41284394,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 2,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "東"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 648762254.04658997,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 4,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "季節"
+              }
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 648763606.00144994,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "獨聽"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 4,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          }
+        ],
+        "timeStamp" : 647732569.42191303,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 3,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              }
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 648762867.69509494,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 5,
+        "results" : [
+          {
+            "faan" : 1,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 648764465.53032601,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 647733412.25170898,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 2,
+    "timeStamp" : 648761543.14137805,
+    "wind" : 0,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "莊伯伯",
+          "publicID" : "3069F562-349A-4EC7-A911-B7017302FB40"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "Bill",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "莊伯母",
+          "publicID" : "644D8C00-7BD1-4385-9BD3-8FA7D230C841"
+        },
+        "wind" : 3
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 1
+      }
+    ]
+  },
+  {
+    "publicID" : "511760B3-59C0-4F8F-BF7B-160169B843E5",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : true,
+        "number" : 4,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "平胡"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 648766933.22047901,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 2,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 648765701.81280994,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 648765064.25116801,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 5,
+        "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "平胡"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 648767803.33956003,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 3,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "花"
+              }
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 648766235.32402098,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 1,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 648765064.248721,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 0,
+    "timeStamp" : 648765064.24948299,
+    "wind" : 1,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "莊伯母",
+          "publicID" : "644D8C00-7BD1-4385-9BD3-8FA7D230C841"
+        },
+        "wind" : 3
+      },
+      {
+        "player" : {
+          "name" : "莊伯伯",
+          "publicID" : "3069F562-349A-4EC7-A911-B7017302FB40"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "芸芸☁️",
+          "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 1
+      }
+    ]
+  },
+  {
+    "publicID" : "1DAA8FD8-9143-470B-93AC-1227173A5E2B",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 648768501.14069605,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 648768501.14105499,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 5,
+    "timeStamp" : 648768501.14094698,
+    "wind" : 2,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "芸芸☁️",
+          "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "莊伯母",
+          "publicID" : "644D8C00-7BD1-4385-9BD3-8FA7D230C841"
+        },
+        "wind" : 3
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "莊伯伯",
+          "publicID" : "3069F562-349A-4EC7-A911-B7017302FB40"
+        },
+        "wind" : 0
+      }
+    ]
   }
+
 ]
