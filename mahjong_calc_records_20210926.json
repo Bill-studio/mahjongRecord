@@ -6,17 +6,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 643922846.29895794,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -31,6 +20,17 @@
           }
         ],
         "timeStamp" : 643922846.29844999,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 643922846.29895794,
         "wind" : 0
       },
       {
@@ -77,6 +77,14 @@
         "results" : [
           {
             "faan" : 6,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 6,
             "loserWind" : 3,
             "winHand" : [
 
@@ -86,14 +94,6 @@
           {
             "faan" : 6,
             "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 6,
-            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -111,6 +111,14 @@
         "results" : [
           {
             "faan" : 10,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 10,
             "loserWind" : 3,
             "winHand" : [
 
@@ -120,14 +128,6 @@
           {
             "faan" : 10,
             "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 10,
-            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -249,18 +249,21 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 644440739.13236797,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
         "results" : [
-          {
-            "faan" : 5,
-            "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
           {
             "faan" : 4,
             "loserWind" : 2,
@@ -276,20 +279,17 @@
 
             ],
             "winnerWind" : 0
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
           }
         ],
         "timeStamp" : 644440739.13196099,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 644440739.13236797,
         "wind" : 0
       },
       {
@@ -299,8 +299,8 @@
         "number" : 2,
         "results" : [
           {
-            "faan" : 4,
-            "loserWind" : 2,
+            "faan" : 3,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -315,8 +315,8 @@
             "winnerWind" : 3
           },
           {
-            "faan" : 3,
-            "loserWind" : 0,
+            "faan" : 4,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -487,7 +487,7 @@
           },
           {
             "faan" : 3,
-            "loserWind" : 1,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -495,7 +495,7 @@
           },
           {
             "faan" : 3,
-            "loserWind" : 0,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -530,14 +530,6 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
             "faan" : 5,
             "loserWind" : 1,
             "winHand" : [
@@ -548,6 +540,14 @@
           {
             "faan" : 5,
             "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -599,17 +599,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 639778603.69918799,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : false,
         "number" : 1,
@@ -617,6 +606,17 @@
 
         ],
         "timeStamp" : 639778603.69894302,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 639778603.69918799,
         "wind" : 0
       }
     ],
@@ -661,17 +661,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 643579746.07396102,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -694,6 +683,17 @@
           }
         ],
         "timeStamp" : 643579746.07433796,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 643579746.07396102,
         "wind" : 0
       },
       {
@@ -740,6 +740,14 @@
         "results" : [
           {
             "faan" : 2,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 2,
             "loserWind" : 3,
             "winHand" : [
 
@@ -749,14 +757,6 @@
           {
             "faan" : 5,
             "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 2,
-            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -826,17 +826,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 644443950.80305898,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 1,
@@ -851,6 +840,17 @@
           }
         ],
         "timeStamp" : 644443950.80331802,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 644443950.80305898,
         "wind" : 0
       },
       {
@@ -956,16 +956,16 @@
             "winnerWind" : 2
           },
           {
-            "faan" : 4,
-            "loserWind" : 1,
+            "faan" : 3,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
             "winnerWind" : 2
           },
           {
-            "faan" : 3,
-            "loserWind" : 0,
+            "faan" : 4,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -1080,16 +1080,16 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 4,
-            "loserWind" : 3,
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
             "winnerWind" : 0
           },
           {
-            "faan" : 3,
-            "loserWind" : 1,
+            "faan" : 4,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -1185,6 +1185,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 647733412.25170898,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -1201,8 +1212,8 @@
         "number" : 1,
         "results" : [
           {
-            "faan" : 3,
-            "loserWind" : 3,
+            "faan" : 4,
+            "loserWind" : 2,
             "winHand" : [
               {
                 "handType" : "獨聽"
@@ -1214,8 +1225,8 @@
             "winnerWind" : 0
           },
           {
-            "faan" : 4,
-            "loserWind" : 2,
+            "faan" : 3,
+            "loserWind" : 3,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -1231,27 +1242,16 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 0
           }
         ],
         "timeStamp" : 647732569.42191303,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 0,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 647733412.25170898,
         "wind" : 0
       },
       {
@@ -1506,10 +1506,10 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "槓2"
+                "handType" : "季節"
               },
               {
-                "handType" : "季節"
+                "handType" : "槓2"
               }
             ],
             "winnerWind" : 1
@@ -1795,14 +1795,6 @@
         "number" : 5,
         "results" : [
           {
-            "faan" : 8,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 3
-          },
-          {
             "faan" : 5,
             "loserWind" : 0,
             "winHand" : [
@@ -1813,6 +1805,14 @@
           {
             "faan" : 5,
             "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 8,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -1829,14 +1829,6 @@
         "number" : 6,
         "results" : [
           {
-            "faan" : 2,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
             "faan" : 3,
             "loserWind" : 3,
             "winHand" : [
@@ -1847,6 +1839,14 @@
           {
             "faan" : 2,
             "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 2,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -1898,17 +1898,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 3,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641508563.12600601,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
@@ -1923,6 +1912,17 @@
           }
         ],
         "timeStamp" : 641508563.126248,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641508563.12600601,
         "wind" : 0
       },
       {
@@ -2039,17 +2039,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 640795085.86536801,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -2064,7 +2053,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 2,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -2072,7 +2061,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 1,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -2080,6 +2069,17 @@
           }
         ],
         "timeStamp" : 640795085.86563206,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 640795085.86536801,
         "wind" : 0
       },
       {
@@ -2108,14 +2108,6 @@
         "results" : [
           {
             "faan" : 6,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 6,
             "loserWind" : 3,
             "winHand" : [
 
@@ -2125,6 +2117,14 @@
           {
             "faan" : 6,
             "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -2171,6 +2171,14 @@
         "results" : [
           {
             "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 3,
             "loserWind" : 0,
             "winHand" : [
 
@@ -2180,14 +2188,6 @@
           {
             "faan" : 12,
             "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -2205,7 +2205,7 @@
         "results" : [
           {
             "faan" : 5,
-            "loserWind" : 1,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -2213,7 +2213,7 @@
           },
           {
             "faan" : 5,
-            "loserWind" : 0,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -2356,7 +2356,7 @@
             "winHand" : [
 
             ],
-            "winnerWind" : 1
+            "winnerWind" : 2
           },
           {
             "faan" : 1,
@@ -2364,7 +2364,7 @@
             "winHand" : [
 
             ],
-            "winnerWind" : 2
+            "winnerWind" : 1
           }
         ],
         "timeStamp" : 641520516.02530396,
@@ -2414,14 +2414,6 @@
         "results" : [
           {
             "faan" : 3,
-            "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 3,
             "loserWind" : 0,
             "winHand" : [
 
@@ -2431,6 +2423,14 @@
           {
             "faan" : 4,
             "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -2447,14 +2447,6 @@
         "number" : 5,
         "results" : [
           {
-            "faan" : 5,
-            "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
             "faan" : 4,
             "loserWind" : 1,
             "winHand" : [
@@ -2465,6 +2457,14 @@
           {
             "faan" : 4,
             "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -2556,10 +2556,10 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 2
@@ -2569,10 +2569,10 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 2
@@ -2716,6 +2716,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 647730754.41284394,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 1,
@@ -2735,17 +2746,6 @@
           }
         ],
         "timeStamp" : 647730754.41251695,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 647730754.41284394,
         "wind" : 0
       },
       {
@@ -2858,17 +2858,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 643928211.65157199,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -2883,6 +2872,17 @@
           }
         ],
         "timeStamp" : 643928211.65118206,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 643928211.65157199,
         "wind" : 0
       },
       {
@@ -2936,16 +2936,16 @@
             "winnerWind" : 0
           },
           {
-            "faan" : 3,
-            "loserWind" : 1,
+            "faan" : 6,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
             "winnerWind" : 0
           },
           {
-            "faan" : 6,
-            "loserWind" : 2,
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -3014,6 +3014,17 @@
     "publicID" : "5F328EF1-02D2-447C-9C66-866A267D9EF6",
     "rounds" : [
       {
+        "dealerWinCount" : 2,
+        "dealerWind" : 3,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641338966.02114606,
+        "wind" : 0
+      },
+      {
         "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
@@ -3032,17 +3043,6 @@
         "wind" : 0
       },
       {
-        "dealerWinCount" : 2,
-        "dealerWind" : 3,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641338966.02114606,
-        "wind" : 0
-      },
-      {
         "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
@@ -3058,7 +3058,7 @@
           },
           {
             "faan" : 5,
-            "loserWind" : 1,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -3066,7 +3066,7 @@
           },
           {
             "faan" : 5,
-            "loserWind" : 2,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -3511,16 +3511,16 @@
             "winnerWind" : 1
           },
           {
-            "faan" : 3,
-            "loserWind" : 3,
+            "faan" : 8,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
             "winnerWind" : 1
           },
           {
-            "faan" : 8,
-            "loserWind" : 0,
+            "faan" : 3,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -3730,7 +3730,7 @@
         "results" : [
           {
             "faan" : 4,
-            "loserWind" : 2,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -3738,7 +3738,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 1,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -3764,7 +3764,7 @@
         "results" : [
           {
             "faan" : 4,
-            "loserWind" : 2,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -3772,7 +3772,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 3,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -3850,46 +3850,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 3,
-        "finished" : true,
-        "number" : 1,
-        "results" : [
-          {
-            "faan" : 2,
-            "loserWind" : 0,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 3,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 2,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 1
-          }
-        ],
-        "timeStamp" : 647306682.56899297,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -3906,8 +3866,8 @@
         "number" : 1,
         "results" : [
           {
-            "faan" : 4,
-            "loserWind" : 3,
+            "faan" : 5,
+            "loserWind" : 0,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -3926,8 +3886,8 @@
             "winnerWind" : 1
           },
           {
-            "faan" : 5,
-            "loserWind" : 0,
+            "faan" : 4,
+            "loserWind" : 3,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -3937,6 +3897,46 @@
           }
         ],
         "timeStamp" : 647306486.711882,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 2,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 647306682.56899297,
         "wind" : 0
       },
       {
@@ -4019,6 +4019,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641423605.06918204,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -4033,17 +4044,6 @@
           }
         ],
         "timeStamp" : 641423605.06831503,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641423605.06918204,
         "wind" : 0
       },
       {
@@ -4304,16 +4304,6 @@
         "results" : [
           {
             "faan" : 3,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 3,
             "loserWind" : 0,
             "winHand" : [
               {
@@ -4325,6 +4315,16 @@
           {
             "faan" : 4,
             "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 2,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -4450,16 +4450,16 @@
         "number" : 2,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 0,
+            "faan" : 5,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
             "winnerWind" : 2
           },
           {
-            "faan" : 5,
-            "loserWind" : 3,
+            "faan" : 6,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -4484,16 +4484,16 @@
         "number" : 3,
         "results" : [
           {
-            "faan" : 3,
-            "loserWind" : 3,
+            "faan" : 4,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
             "winnerWind" : 2
           },
           {
-            "faan" : 4,
-            "loserWind" : 1,
+            "faan" : 3,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -4616,17 +4616,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 644448966.09225404,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 1,
@@ -4641,6 +4630,17 @@
           }
         ],
         "timeStamp" : 644448966.09193897,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 644448966.09225404,
         "wind" : 0
       },
       {
@@ -4686,6 +4686,14 @@
         "number" : 4,
         "results" : [
           {
+            "faan" : 5,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
             "faan" : 6,
             "loserWind" : 1,
             "winHand" : [
@@ -4696,14 +4704,6 @@
           {
             "faan" : 5,
             "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 5,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -4755,6 +4755,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 644706542.92697406,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -4769,17 +4780,6 @@
           }
         ],
         "timeStamp" : 644706542.92666101,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 644706542.92697406,
         "wind" : 0
       },
       {
@@ -4974,6 +4974,14 @@
         "results" : [
           {
             "faan" : 4,
+            "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 4,
             "loserWind" : 2,
             "winHand" : [
 
@@ -4983,14 +4991,6 @@
           {
             "faan" : 4,
             "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -5072,6 +5072,17 @@
       {
         "dealerWinCount" : 0,
         "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 642206242.89874005,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
         "results" : [
@@ -5085,17 +5096,6 @@
           }
         ],
         "timeStamp" : 642206242.89931703,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 642206242.89874005,
         "wind" : 0
       },
       {
@@ -5218,6 +5218,14 @@
         "results" : [
           {
             "faan" : 4,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 4,
             "loserWind" : 3,
             "winHand" : [
 
@@ -5227,14 +5235,6 @@
           {
             "faan" : 5,
             "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -5287,14 +5287,6 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 3,
-            "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
             "faan" : 2,
             "loserWind" : 3,
             "winHand" : [
@@ -5305,6 +5297,14 @@
           {
             "faan" : 2,
             "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -5356,6 +5356,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641338253.94754398,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -5386,17 +5397,6 @@
           }
         ],
         "timeStamp" : 641338253.948102,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 0,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641338253.94754398,
         "wind" : 0
       },
       {
@@ -5460,16 +5460,16 @@
         "number" : 5,
         "results" : [
           {
-            "faan" : 4,
-            "loserWind" : 0,
+            "faan" : 5,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
             "winnerWind" : 2
           },
           {
-            "faan" : 5,
-            "loserWind" : 1,
+            "faan" : 4,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -5860,6 +5860,14 @@
         "results" : [
           {
             "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 4,
             "loserWind" : 0,
             "winHand" : [
 
@@ -5869,14 +5877,6 @@
           {
             "faan" : 5,
             "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -5893,14 +5893,6 @@
         "number" : 2,
         "results" : [
           {
-            "faan" : 2,
-            "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
             "faan" : 3,
             "loserWind" : 2,
             "winHand" : [
@@ -5911,6 +5903,14 @@
           {
             "faan" : 2,
             "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 2,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -6016,13 +6016,24 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641069497.30431402,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
         "results" : [
           {
-            "faan" : 4,
-            "loserWind" : 0,
+            "faan" : 5,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -6037,8 +6048,8 @@
             "winnerWind" : 2
           },
           {
-            "faan" : 5,
-            "loserWind" : 1,
+            "faan" : 4,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -6046,17 +6057,6 @@
           }
         ],
         "timeStamp" : 641069497.30444705,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 0,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641069497.30431402,
         "wind" : 0
       },
       {
@@ -6118,20 +6118,20 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 1,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
             "faan" : 2,
             "loserWind" : 2,
             "winHand" : [
 
             ],
             "winnerWind" : 3
+          },
+          {
+            "faan" : 1,
+            "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
           }
         ],
         "timeStamp" : 641073719.55025005,
@@ -6178,20 +6178,20 @@
         "number" : 6,
         "results" : [
           {
-            "faan" : 5,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
             "faan" : 1,
             "loserWind" : 2,
             "winHand" : [
 
             ],
             "winnerWind" : 1
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
           }
         ],
         "timeStamp" : 641074925.02296996,
@@ -6337,17 +6337,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641853955.92438805,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 1,
@@ -6362,6 +6351,17 @@
           }
         ],
         "timeStamp" : 641853955.92469597,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641853955.92438805,
         "wind" : 0
       },
       {
@@ -6407,14 +6407,6 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 3,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 3
-          },
-          {
             "faan" : 4,
             "loserWind" : 1,
             "winHand" : [
@@ -6425,6 +6417,14 @@
           {
             "faan" : 3,
             "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -6477,24 +6477,6 @@
       {
         "dealerWinCount" : 0,
         "dealerWind" : 1,
-        "finished" : true,
-        "number" : 1,
-        "results" : [
-          {
-            "faan" : 3,
-            "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          }
-        ],
-        "timeStamp" : 639775259.55209303,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 1,
         "finished" : false,
         "number" : 1,
         "results" : [
@@ -6519,6 +6501,24 @@
           }
         ],
         "timeStamp" : 639769039.77806795,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 639775259.55209303,
         "wind" : 0
       },
       {
@@ -6628,17 +6628,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 2,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 639783125.89443696,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -6646,6 +6635,17 @@
 
         ],
         "timeStamp" : 639783125.89467597,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 639783125.89443696,
         "wind" : 0
       }
     ],
@@ -6691,6 +6691,17 @@
       {
         "dealerWinCount" : 0,
         "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 642202514.00731301,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
         "results" : [
@@ -6704,17 +6715,6 @@
           }
         ],
         "timeStamp" : 642202514.007568,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 642202514.00731301,
         "wind" : 0
       },
       {
@@ -7004,6 +7004,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 642290363.54971194,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -7018,17 +7029,6 @@
           }
         ],
         "timeStamp" : 642290363.54900503,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 642290363.54971194,
         "wind" : 0
       },
       {
@@ -7356,16 +7356,16 @@
         "number" : 5,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 2,
+            "faan" : 3,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
             "winnerWind" : 1
           },
           {
-            "faan" : 3,
-            "loserWind" : 0,
+            "faan" : 6,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -7443,6 +7443,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641077728.17603302,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -7457,17 +7468,6 @@
           }
         ],
         "timeStamp" : 641077728.17629194,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641077728.17603302,
         "wind" : 0
       },
       {
@@ -7566,17 +7566,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 642980002.67207801,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -7590,16 +7579,16 @@
             "winnerWind" : 3
           },
           {
-            "faan" : 3,
-            "loserWind" : 2,
+            "faan" : 4,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
             "winnerWind" : 3
           },
           {
-            "faan" : 4,
-            "loserWind" : 0,
+            "faan" : 3,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -7611,10 +7600,29 @@
       },
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 642980002.67207801,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 2,
         "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 3
+          },
           {
             "faan" : 3,
             "loserWind" : 1,
@@ -7626,14 +7634,6 @@
           {
             "faan" : 2,
             "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 2,
-            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -7721,6 +7721,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 647300889.69461596,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -7744,17 +7755,6 @@
       },
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 647300889.69461596,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 2,
@@ -7764,6 +7764,9 @@
             "loserWind" : 3,
             "winHand" : [
               {
+                "handType" : "季節"
+              },
+              {
                 "handType" : "槓1"
               },
               {
@@ -7771,9 +7774,6 @@
               },
               {
                 "handType" : "獨聽"
-              },
-              {
-                "handType" : "季節"
               }
             ],
             "winnerWind" : 0
@@ -7855,28 +7855,31 @@
         "number" : 6,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 3,
+            "faan" : 9,
+            "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "獨聽"
+                "handType" : "季節"
               },
               {
                 "handType" : "東"
               },
               {
-                "handType" : "季節"
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 0
           },
           {
-            "faan" : 9,
-            "loserWind" : 1,
+            "faan" : 6,
+            "loserWind" : 3,
             "winHand" : [
+              {
+                "handType" : "東"
+              },
               {
                 "handType" : "獨聽"
               },
@@ -7885,9 +7888,6 @@
               },
               {
                 "handType" : "季節"
-              },
-              {
-                "handType" : "東"
               }
             ],
             "winnerWind" : 0
@@ -7897,13 +7897,13 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "獨聽"
-              },
-              {
                 "handType" : "季節"
               },
               {
                 "handType" : "東"
+              },
+              {
+                "handType" : "獨聽"
               },
               {
                 "handType" : "自摸"
@@ -7977,18 +7977,21 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 643583261.28769696,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
         "results" : [
-          {
-            "faan" : 3,
-            "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
           {
             "faan" : 2,
             "loserWind" : 1,
@@ -8004,20 +8007,17 @@
 
             ],
             "winnerWind" : 2
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
           }
         ],
         "timeStamp" : 643583261.28734803,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 643583261.28769696,
         "wind" : 0
       },
       {
@@ -8063,14 +8063,6 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 3,
-            "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
             "faan" : 2,
             "loserWind" : 2,
             "winHand" : [
@@ -8081,6 +8073,14 @@
           {
             "faan" : 2,
             "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -8500,17 +8500,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 648765064.25116801,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -8525,6 +8514,17 @@
           }
         ],
         "timeStamp" : 648765064.248721,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 648765064.25116801,
         "wind" : 0
       },
       {
@@ -8698,7 +8698,7 @@
         "results" : [
           {
             "faan" : 4,
-            "loserWind" : 2,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -8706,7 +8706,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 1,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -8750,6 +8750,14 @@
         "results" : [
           {
             "faan" : 9,
+            "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 9,
             "loserWind" : 1,
             "winHand" : [
 
@@ -8759,14 +8767,6 @@
           {
             "faan" : 9,
             "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
-            "faan" : 9,
-            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -8791,16 +8791,16 @@
             "winnerWind" : 2
           },
           {
-            "faan" : 3,
-            "loserWind" : 1,
+            "faan" : 8,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
             "winnerWind" : 2
           },
           {
-            "faan" : 8,
-            "loserWind" : 0,
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -8870,10 +8870,29 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 644704044.36644304,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
         "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
+          },
           {
             "faan" : 2,
             "loserWind" : 3,
@@ -8889,28 +8908,9 @@
 
             ],
             "winnerWind" : 0
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
           }
         ],
         "timeStamp" : 644704044.36623204,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 644704044.36644304,
         "wind" : 0
       },
       {
@@ -8957,7 +8957,7 @@
         "results" : [
           {
             "faan" : 5,
-            "loserWind" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -8965,7 +8965,7 @@
           },
           {
             "faan" : 5,
-            "loserWind" : 1,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -9031,6 +9031,14 @@
         "results" : [
           {
             "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 3,
             "loserWind" : 2,
             "winHand" : [
 
@@ -9040,14 +9048,6 @@
           {
             "faan" : 4,
             "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -9200,17 +9200,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 3,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641430063.39823496,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -9229,21 +9218,32 @@
       },
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641430063.39823496,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 2,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 2,
+            "faan" : 7,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
             "winnerWind" : 3
           },
           {
-            "faan" : 7,
-            "loserWind" : 1,
+            "faan" : 6,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -9286,8 +9286,8 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 4,
-            "loserWind" : 3,
+            "faan" : 3,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -9302,8 +9302,8 @@
             "winnerWind" : 1
           },
           {
-            "faan" : 3,
-            "loserWind" : 0,
+            "faan" : 4,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -9355,10 +9355,29 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641515967.65283,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
         "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
           {
             "faan" : 4,
             "loserWind" : 2,
@@ -9374,28 +9393,9 @@
 
             ],
             "winnerWind" : 1
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
           }
         ],
         "timeStamp" : 641515967.65264595,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641515967.65283,
         "wind" : 0
       },
       {
@@ -9414,7 +9414,7 @@
           },
           {
             "faan" : 7,
-            "loserWind" : 3,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -9422,7 +9422,7 @@
           },
           {
             "faan" : 7,
-            "loserWind" : 0,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -9564,6 +9564,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 645140560.28629398,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
@@ -9578,17 +9589,6 @@
           }
         ],
         "timeStamp" : 645140560.28760004,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 645140560.28629398,
         "wind" : 0
       },
       {
@@ -9688,6 +9688,14 @@
         "results" : [
           {
             "faan" : 5,
+            "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 5,
             "loserWind" : 3,
             "winHand" : [
 
@@ -9697,14 +9705,6 @@
           {
             "faan" : 5,
             "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 0
-          },
-          {
-            "faan" : 5,
-            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -9774,17 +9774,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 642626348.22955406,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -9803,10 +9792,29 @@
       },
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 642626348.22955406,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 2,
         "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
           {
             "faan" : 5,
             "loserWind" : 0,
@@ -9818,14 +9826,6 @@
           {
             "faan" : 4,
             "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -10035,7 +10035,7 @@
             "winHand" : [
 
             ],
-            "winnerWind" : 2
+            "winnerWind" : 0
           },
           {
             "faan" : 2,
@@ -10043,7 +10043,7 @@
             "winHand" : [
 
             ],
-            "winnerWind" : 0
+            "winnerWind" : 2
           }
         ],
         "timeStamp" : 641851718.90460801,
@@ -10198,7 +10198,7 @@
         "results" : [
           {
             "faan" : 4,
-            "loserWind" : 3,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -10206,7 +10206,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 0,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -10353,29 +10353,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : true,
-        "number" : 1,
-        "results" : [
-          {
-            "faan" : 3,
-            "loserWind" : 1,
-            "winHand" : [
-              {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "獨聽"
-              }
-            ],
-            "winnerWind" : 3
-          }
-        ],
-        "timeStamp" : 647380956.65266001,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -10387,13 +10364,36 @@
       },
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 647380956.65266001,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 2,
         "results" : [
           {
             "faan" : 2,
-            "loserWind" : 1,
+            "loserWind" : 3,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -10403,7 +10403,7 @@
           },
           {
             "faan" : 2,
-            "loserWind" : 3,
+            "loserWind" : 1,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -10433,11 +10433,8 @@
         "results" : [
           {
             "faan" : 6,
-            "loserWind" : 2,
+            "loserWind" : 1,
             "winHand" : [
-              {
-                "handType" : "自摸"
-              },
               {
                 "handType" : "門清"
               },
@@ -10446,6 +10443,9 @@
               },
               {
                 "handType" : "莊"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 3
@@ -10455,35 +10455,35 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "門清"
-              },
-              {
                 "handType" : "平胡"
               },
               {
-                "handType" : "莊"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "門清"
+              },
+              {
+                "handType" : "莊"
               }
             ],
             "winnerWind" : 3
           },
           {
             "faan" : 6,
-            "loserWind" : 1,
+            "loserWind" : 2,
             "winHand" : [
               {
                 "handType" : "莊"
-              },
-              {
-                "handType" : "平胡"
               },
               {
                 "handType" : "自摸"
               },
               {
                 "handType" : "門清"
+              },
+              {
+                "handType" : "平胡"
               }
             ],
             "winnerWind" : 3
@@ -10521,13 +10521,13 @@
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "季節"
-              },
-              {
                 "handType" : "南"
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 2
@@ -10579,17 +10579,6 @@
       {
         "dealerWinCount" : 0,
         "dealerWind" : 3,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641427291.58024895,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
         "results" : [
@@ -10607,18 +10596,21 @@
       },
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641427291.58024895,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 2,
         "results" : [
-          {
-            "faan" : 4,
-            "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
           {
             "faan" : 5,
             "loserWind" : 0,
@@ -10630,6 +10622,14 @@
           {
             "faan" : 4,
             "loserWind" : 2,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 4,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -10647,7 +10647,7 @@
         "results" : [
           {
             "faan" : 3,
-            "loserWind" : 2,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -10655,7 +10655,7 @@
           },
           {
             "faan" : 3,
-            "loserWind" : 0,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -10756,6 +10756,14 @@
         "number" : 5,
         "results" : [
           {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
             "faan" : 5,
             "loserWind" : 0,
             "winHand" : [
@@ -10766,14 +10774,6 @@
           {
             "faan" : 4,
             "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -10842,6 +10842,14 @@
         "results" : [
           {
             "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 3,
             "loserWind" : 3,
             "winHand" : [
 
@@ -10851,14 +10859,6 @@
           {
             "faan" : 4,
             "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11134,14 +11134,6 @@
         "results" : [
           {
             "faan" : 3,
-            "loserWind" : 1,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 3,
             "loserWind" : 0,
             "winHand" : [
 
@@ -11151,6 +11143,14 @@
           {
             "faan" : 3,
             "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11186,7 +11186,7 @@
         "results" : [
           {
             "faan" : 7,
-            "loserWind" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11194,7 +11194,7 @@
           },
           {
             "faan" : 7,
-            "loserWind" : 1,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -11245,16 +11245,16 @@
             "winnerWind" : 1
           },
           {
-            "faan" : 4,
-            "loserWind" : 0,
+            "faan" : 3,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
             "winnerWind" : 1
           },
           {
-            "faan" : 3,
-            "loserWind" : 3,
+            "faan" : 4,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -11324,17 +11324,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 644621896.95192301,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : true,
         "number" : 1,
@@ -11379,6 +11368,17 @@
         "wind" : 0
       },
       {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 644621896.95192301,
+        "wind" : 0
+      },
+      {
         "dealerWinCount" : 1,
         "dealerWind" : 3,
         "finished" : true,
@@ -11394,7 +11394,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 1,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -11402,7 +11402,7 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 0,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11427,16 +11427,16 @@
             "winnerWind" : 2
           },
           {
-            "faan" : 5,
-            "loserWind" : 1,
+            "faan" : 6,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
             "winnerWind" : 2
           },
           {
-            "faan" : 6,
-            "loserWind" : 0,
+            "faan" : 5,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11461,16 +11461,16 @@
             "winnerWind" : 0
           },
           {
-            "faan" : 2,
-            "loserWind" : 3,
+            "faan" : 3,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
             "winnerWind" : 0
           },
           {
-            "faan" : 3,
-            "loserWind" : 1,
+            "faan" : 2,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -11488,14 +11488,6 @@
         "results" : [
           {
             "faan" : 5,
-            "loserWind" : 3,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 5,
             "loserWind" : 0,
             "winHand" : [
 
@@ -11505,6 +11497,14 @@
           {
             "faan" : 5,
             "loserWind" : 1,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -11625,17 +11625,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 2,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 640820727.96252704,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -11643,6 +11632,17 @@
 
         ],
         "timeStamp" : 640820727.96275604,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 640820727.96252704,
         "wind" : 0
       }
     ],
@@ -11710,14 +11710,6 @@
         "number" : 3,
         "results" : [
           {
-            "faan" : 5,
-            "loserWind" : 2,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
             "faan" : 4,
             "loserWind" : 3,
             "winHand" : [
@@ -11728,6 +11720,14 @@
           {
             "faan" : 4,
             "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -11815,17 +11815,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 1,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 640398617.921731,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -11833,6 +11822,17 @@
 
         ],
         "timeStamp" : 640395752.35696101,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 640398617.921731,
         "wind" : 0
       },
       {
@@ -11895,7 +11895,7 @@
         "results" : [
           {
             "faan" : 8,
-            "loserWind" : 0,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11911,7 +11911,7 @@
           },
           {
             "faan" : 8,
-            "loserWind" : 1,
+            "loserWind" : 0,
             "winHand" : [
 
             ],
@@ -11946,8 +11946,8 @@
         "number" : 5,
         "results" : [
           {
-            "faan" : 14,
-            "loserWind" : 2,
+            "faan" : 7,
+            "loserWind" : 1,
             "winHand" : [
 
             ],
@@ -11962,8 +11962,8 @@
             "winnerWind" : 0
           },
           {
-            "faan" : 7,
-            "loserWind" : 1,
+            "faan" : 14,
+            "loserWind" : 2,
             "winHand" : [
 
             ],
@@ -12126,14 +12126,6 @@
             "winHand" : [
 
             ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 1,
-            "loserWind" : 0,
-            "winHand" : [
-
-            ],
             "winnerWind" : 2
           },
           {
@@ -12143,6 +12135,14 @@
 
             ],
             "winnerWind" : 1
+          },
+          {
+            "faan" : 1,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 3
           }
         ],
         "timeStamp" : 642201163.68036795,
@@ -12209,17 +12209,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 0,
-        "finished" : true,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 648768501.14105499,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 5,
         "finished" : false,
         "number" : 1,
@@ -12227,6 +12216,17 @@
 
         ],
         "timeStamp" : 648768501.14069605,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 648768501.14105499,
         "wind" : 0
       },
       {
@@ -12281,16 +12281,16 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "白"
-              },
-              {
-                "handType" : "季節"
-              },
-              {
                 "handType" : "莊"
               },
               {
+                "handType" : "白"
+              },
+              {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 2
@@ -12306,17 +12306,17 @@
         "number" : 4,
         "results" : [
           {
-            "faan" : 7,
-            "loserWind" : 2,
+            "faan" : 4,
+            "loserWind" : 3,
             "winHand" : [
-              {
-                "handType" : "自摸"
-              },
               {
                 "handType" : "槓1"
               },
               {
                 "handType" : "中"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 0
@@ -12326,29 +12326,29 @@
             "loserWind" : 1,
             "winHand" : [
               {
+                "handType" : "自摸"
+              },
+              {
                 "handType" : "中"
               },
               {
                 "handType" : "槓1"
-              },
-              {
-                "handType" : "自摸"
               }
             ],
             "winnerWind" : 0
           },
           {
-            "faan" : 4,
-            "loserWind" : 3,
+            "faan" : 7,
+            "loserWind" : 2,
             "winHand" : [
-              {
-                "handType" : "自摸"
-              },
               {
                 "handType" : "槓1"
               },
               {
                 "handType" : "中"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 0
@@ -12842,6 +12842,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 641058165.35728896,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -12856,17 +12867,6 @@
           }
         ],
         "timeStamp" : 641058165.35754299,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 2,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 641058165.35728896,
         "wind" : 0
       },
       {
@@ -12930,6 +12930,14 @@
         "number" : 5,
         "results" : [
           {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 1
+          },
+          {
             "faan" : 6,
             "loserWind" : 2,
             "winHand" : [
@@ -12940,14 +12948,6 @@
           {
             "faan" : 3,
             "loserWind" : 0,
-            "winHand" : [
-
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 3,
             "winHand" : [
 
             ],
@@ -13249,16 +13249,16 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "獨聽"
+                "handType" : "發"
               },
               {
                 "handType" : "槓1"
               },
               {
-                "handType" : "發"
+                "handType" : "季節"
+              },
+              {
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 3
@@ -13274,39 +13274,39 @@
         "number" : 7,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 1,
+            "faan" : 5,
+            "loserWind" : 0,
             "winHand" : [
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "季節"
-              },
               {
                 "handType" : "聽"
               },
               {
                 "handType" : "槓1"
+              },
+              {
+                "handType" : "季節"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 3
           },
           {
-            "faan" : 5,
-            "loserWind" : 0,
+            "faan" : 6,
+            "loserWind" : 1,
             "winHand" : [
-              {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "自摸"
-              },
               {
                 "handType" : "槓1"
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 3
@@ -13316,16 +13316,16 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "季節"
+                "handType" : "槓1"
               },
               {
                 "handType" : "聽"
               },
               {
-                "handType" : "槓1"
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 3
@@ -13377,17 +13377,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 649459315.01695597,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
@@ -13407,6 +13396,17 @@
         "wind" : 0
       },
       {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 649459315.01695597,
+        "wind" : 0
+      },
+      {
         "dealerWinCount" : 1,
         "dealerWind" : 1,
         "finished" : true,
@@ -13414,43 +13414,9 @@
         "results" : [
           {
             "faan" : 9,
-            "loserWind" : 0,
-            "winHand" : [
-              {
-                "handType" : "獨聽"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "槓上開花"
-              },
-              {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "槓1"
-              },
-              {
-                "handType" : "花"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 9,
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "獨聽"
-              },
-              {
-                "handType" : "莊"
-              },
-              {
                 "handType" : "槓1"
               },
               {
@@ -13458,6 +13424,15 @@
               },
               {
                 "handType" : "槓上開花"
+              },
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "莊"
               }
             ],
             "winnerWind" : 1
@@ -13467,22 +13442,47 @@
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "獨聽"
-              },
-              {
-                "handType" : "莊"
-              },
-              {
                 "handType" : "槓1"
               },
               {
                 "handType" : "花"
               },
               {
+                "handType" : "莊"
+              },
+              {
                 "handType" : "槓上開花"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "獨聽"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 9,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "槓上開花"
+              },
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 1
@@ -13596,6 +13596,9 @@
             "loserWind" : 3,
             "winHand" : [
               {
+                "handType" : "莊"
+              },
+              {
                 "handType" : "中"
               },
               {
@@ -13603,9 +13606,6 @@
               },
               {
                 "handType" : "東"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 0
@@ -13857,6 +13857,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 649524318.40852797,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -13882,17 +13893,6 @@
         "wind" : 0
       },
       {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 649524318.40852797,
-        "wind" : 0
-      },
-      {
         "dealerWinCount" : 1,
         "dealerWind" : 0,
         "finished" : true,
@@ -13903,13 +13903,13 @@
             "loserWind" : 2,
             "winHand" : [
               {
+                "handType" : "莊"
+              },
+              {
                 "handType" : "發"
               },
               {
                 "handType" : "花"
-              },
-              {
-                "handType" : "莊"
               },
               {
                 "handType" : "聽"
@@ -13968,32 +13968,32 @@
           },
           {
             "faan" : 8,
-            "loserWind" : 3,
+            "loserWind" : 2,
             "winHand" : [
+              {
+                "handType" : "莊"
+              },
               {
                 "handType" : "中"
               },
               {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 0
           },
           {
             "faan" : 8,
-            "loserWind" : 2,
+            "loserWind" : 3,
             "winHand" : [
+              {
+                "handType" : "莊"
+              },
               {
                 "handType" : "中"
               },
               {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 0
@@ -14010,32 +14010,32 @@
         "results" : [
           {
             "faan" : 11,
-            "loserWind" : 2,
+            "loserWind" : 3,
             "winHand" : [
+              {
+                "handType" : "莊"
+              },
               {
                 "handType" : "中"
               },
               {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 0
           },
           {
             "faan" : 11,
-            "loserWind" : 3,
+            "loserWind" : 2,
             "winHand" : [
+              {
+                "handType" : "莊"
+              },
               {
                 "handType" : "中"
               },
               {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 0
@@ -14114,38 +14114,38 @@
         "results" : [
           {
             "faan" : 5,
-            "loserWind" : 2,
+            "loserWind" : 3,
             "winHand" : [
-              {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "白"
-              },
               {
                 "handType" : "槓1"
               },
               {
                 "handType" : "自摸"
+              },
+              {
+                "handType" : "季節"
+              },
+              {
+                "handType" : "白"
               }
             ],
             "winnerWind" : 0
           },
           {
             "faan" : 5,
-            "loserWind" : 3,
+            "loserWind" : 2,
             "winHand" : [
-              {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "白"
-              },
               {
                 "handType" : "槓1"
               },
               {
                 "handType" : "自摸"
+              },
+              {
+                "handType" : "季節"
+              },
+              {
+                "handType" : "白"
               }
             ],
             "winnerWind" : 0
@@ -14158,13 +14158,13 @@
                 "handType" : "白"
               },
               {
+                "handType" : "槓1"
+              },
+              {
                 "handType" : "季節"
               },
               {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "槓1"
               }
             ],
             "winnerWind" : 0
@@ -14180,16 +14180,6 @@
         "number" : 9,
         "results" : [
           {
-            "faan" : 2,
-            "loserWind" : 3,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
             "faan" : 3,
             "loserWind" : 2,
             "winHand" : [
@@ -14202,6 +14192,16 @@
           {
             "faan" : 2,
             "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 2,
+            "loserWind" : 3,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -14279,17 +14279,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 3,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 649526630.55925,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 3,
         "dealerWind" : 0,
         "finished" : false,
         "number" : 1,
@@ -14297,6 +14286,17 @@
 
         ],
         "timeStamp" : 649528258.48764396,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 3,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 649526630.55925,
         "wind" : 0
       },
       {
@@ -14488,17 +14488,6 @@
     "publicID" : "F124F78C-80D1-4213-953A-D5C8848F7E8F",
     "rounds" : [
       {
-        "dealerWinCount" : 1,
-        "dealerWind" : 2,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 649532892.68788195,
-        "wind" : 0
-      },
-      {
         "dealerWinCount" : 4,
         "dealerWind" : 5,
         "finished" : false,
@@ -14507,6 +14496,17 @@
 
         ],
         "timeStamp" : 649529758.42137098,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 2,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 649532892.68788195,
         "wind" : 0
       }
     ],
@@ -14616,10 +14616,10 @@
                 "handType" : "莊"
               },
               {
-                "handType" : "白"
+                "handType" : "中"
               },
               {
-                "handType" : "中"
+                "handType" : "白"
               }
             ],
             "winnerWind" : 1
@@ -14666,16 +14666,6 @@
         "number" : 3,
         "results" : [
           {
-            "faan" : 2,
-            "loserWind" : 3,
-            "winHand" : [
-              {
-                "handType" : "聽"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
             "faan" : 4,
             "loserWind" : 3,
             "winHand" : [
@@ -14690,6 +14680,16 @@
               }
             ],
             "winnerWind" : 2
+          },
+          {
+            "faan" : 2,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              }
+            ],
+            "winnerWind" : 1
           }
         ],
         "timeStamp" : 649537475.79197395,
@@ -14768,17 +14768,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 649538476.454175,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
@@ -14788,19 +14777,30 @@
             "loserWind" : 2,
             "winHand" : [
               {
+                "handType" : "北"
+              },
+              {
                 "handType" : "聽"
               },
               {
                 "handType" : "白"
-              },
-              {
-                "handType" : "北"
               }
             ],
             "winnerWind" : 0
           }
         ],
         "timeStamp" : 649538476.45398295,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 649538476.454175,
         "wind" : 0
       },
       {
@@ -14817,10 +14817,10 @@
                 "handType" : "季節"
               },
               {
-                "handType" : "白"
+                "handType" : "聽"
               },
               {
-                "handType" : "聽"
+                "handType" : "白"
               }
             ],
             "winnerWind" : 1
@@ -14837,8 +14837,11 @@
         "results" : [
           {
             "faan" : 4,
-            "loserWind" : 1,
+            "loserWind" : 2,
             "winHand" : [
+              {
+                "handType" : "莊"
+              },
               {
                 "handType" : "白"
               },
@@ -14847,9 +14850,25 @@
               },
               {
                 "handType" : "東"
-              },
+              }
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 4,
+            "loserWind" : 1,
+            "winHand" : [
               {
                 "handType" : "莊"
+              },
+              {
+                "handType" : "東"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "白"
               }
             ],
             "winnerWind" : 3
@@ -14859,6 +14878,9 @@
             "loserWind" : 0,
             "winHand" : [
               {
+                "handType" : "莊"
+              },
+              {
                 "handType" : "白"
               },
               {
@@ -14866,28 +14888,6 @@
               },
               {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "莊"
-              }
-            ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 4,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "白"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "東"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 3
@@ -14907,10 +14907,10 @@
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "中"
+                "handType" : "白"
               },
               {
-                "handType" : "白"
+                "handType" : "中"
               },
               {
                 "handType" : "自摸"
@@ -14923,10 +14923,10 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "中"
+                "handType" : "白"
               },
               {
-                "handType" : "白"
+                "handType" : "中"
               },
               {
                 "handType" : "自摸"
@@ -14939,13 +14939,13 @@
             "loserWind" : 0,
             "winHand" : [
               {
+                "handType" : "自摸"
+              },
+              {
                 "handType" : "中"
               },
               {
                 "handType" : "白"
-              },
-              {
-                "handType" : "自摸"
               }
             ],
             "winnerWind" : 2
@@ -15019,17 +15019,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 649541003.572698,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
@@ -15050,6 +15039,17 @@
       },
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 649541003.572698,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 2,
@@ -15059,10 +15059,10 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "中"
+                "handType" : "花"
               },
               {
-                "handType" : "花"
+                "handType" : "中"
               }
             ],
             "winnerWind" : 0
@@ -15424,16 +15424,16 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "中"
-              },
-              {
-                "handType" : "季節"
-              },
-              {
                 "handType" : "莊"
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "中"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 3
@@ -15453,13 +15453,13 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "南"
+                "handType" : "槓1"
               },
               {
                 "handType" : "門清"
               },
               {
-                "handType" : "槓1"
+                "handType" : "南"
               }
             ],
             "winnerWind" : 1
@@ -15479,16 +15479,16 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "中"
-              },
-              {
-                "handType" : "獨聽"
-              },
-              {
                 "handType" : "莊"
               },
               {
                 "handType" : "花"
+              },
+              {
+                "handType" : "中"
+              },
+              {
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 0
@@ -15558,17 +15558,25 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 650401526.76985502,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 2,
         "finished" : true,
         "number" : 1,
         "results" : [
           {
             "faan" : 5,
-            "loserWind" : 0,
+            "loserWind" : 3,
             "winHand" : [
-              {
-                "handType" : "季節"
-              },
               {
                 "handType" : "自摸"
               },
@@ -15577,6 +15585,9 @@
               },
               {
                 "handType" : "發"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 1
@@ -15586,32 +15597,32 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "發"
+                "handType" : "自摸"
               },
               {
                 "handType" : "花"
               },
               {
-                "handType" : "自摸"
+                "handType" : "發"
+              },
+              {
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 1
           },
           {
             "faan" : 5,
-            "loserWind" : 3,
+            "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "季節"
+                "handType" : "花"
               },
               {
                 "handType" : "發"
               },
               {
-                "handType" : "花"
+                "handType" : "季節"
               },
               {
                 "handType" : "自摸"
@@ -15621,17 +15632,6 @@
           }
         ],
         "timeStamp" : 650401526.770625,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 650401526.76985502,
         "wind" : 0
       },
       {
@@ -15664,14 +15664,14 @@
         "number" : 3,
         "results" : [
           {
-            "faan" : 3,
-            "loserWind" : 2,
+            "faan" : 4,
+            "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               },
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 3
@@ -15690,14 +15690,14 @@
             "winnerWind" : 3
           },
           {
-            "faan" : 4,
-            "loserWind" : 0,
+            "faan" : 3,
+            "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 3
@@ -15841,19 +15841,38 @@
         "results" : [
           {
             "faan" : 6,
-            "loserWind" : 0,
+            "loserWind" : 1,
             "winHand" : [
               {
                 "handType" : "自摸"
               },
               {
+                "handType" : "莊"
+              },
+              {
                 "handType" : "北"
               },
+              {
+                "handType" : "聽"
+              }
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 0,
+            "winHand" : [
               {
                 "handType" : "莊"
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "北"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 2
@@ -15863,24 +15882,8 @@
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "北"
-              },
-              {
-                "handType" : "聽"
-              },
-              {
                 "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 6,
-            "loserWind" : 1,
-            "winHand" : [
+              },
               {
                 "handType" : "莊"
               },
@@ -15889,9 +15892,6 @@
               },
               {
                 "handType" : "聽"
-              },
-              {
-                "handType" : "自摸"
               }
             ],
             "winnerWind" : 2
@@ -15951,16 +15951,16 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "莊"
+              },
+              {
+                "handType" : "花"
               },
               {
                 "handType" : "季節"
               },
               {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "花"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 3
@@ -16221,16 +16221,16 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "中"
+                "handType" : "莊"
               },
               {
-                "handType" : "莊"
+                "handType" : "發"
               },
               {
                 "handType" : "槓1"
               },
               {
-                "handType" : "發"
+                "handType" : "中"
               }
             ],
             "winnerWind" : 0
@@ -16409,9 +16409,6 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "獨聽"
-              },
-              {
                 "handType" : "莊"
               },
               {
@@ -16419,6 +16416,9 @@
               },
               {
                 "handType" : "南"
+              },
+              {
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 2
@@ -16522,17 +16522,6 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 2,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 651948566.70941997,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
         "dealerWind" : 3,
         "finished" : false,
         "number" : 1,
@@ -16551,6 +16540,17 @@
 
         ],
         "timeStamp" : 651537602.85580695,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 651948566.70941997,
         "wind" : 0
       },
       {
@@ -16826,13 +16826,13 @@
         "results" : [
           {
             "faan" : 3,
-            "loserWind" : 1,
+            "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 2
@@ -16852,13 +16852,13 @@
           },
           {
             "faan" : 3,
-            "loserWind" : 3,
+            "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 2
@@ -16918,23 +16918,10 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 0
-          },
-          {
-            "faan" : 3,
-            "loserWind" : 3,
-            "winHand" : [
-              {
                 "handType" : "獨聽"
-              },
-              {
-                "handType" : "自摸"
               }
             ],
             "winnerWind" : 0
@@ -16948,6 +16935,19 @@
               },
               {
                 "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 0
@@ -17025,6 +17025,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 651961997.86749697,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 1,
         "finished" : true,
         "number" : 1,
@@ -17039,17 +17050,6 @@
           }
         ],
         "timeStamp" : 651961997.86777997,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 651961997.86749697,
         "wind" : 0
       },
       {
@@ -17084,10 +17084,10 @@
                 "handType" : "對對胡"
               },
               {
-                "handType" : "白"
+                "handType" : "聽"
               },
               {
-                "handType" : "聽"
+                "handType" : "白"
               }
             ],
             "winnerWind" : 0
@@ -17157,6 +17157,17 @@
     "rounds" : [
       {
         "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 651965921.61821699,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
         "dealerWind" : 0,
         "finished" : true,
         "number" : 1,
@@ -17179,17 +17190,6 @@
           }
         ],
         "timeStamp" : 651965921.62852097,
-        "wind" : 0
-      },
-      {
-        "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
-        "number" : 1,
-        "results" : [
-
-        ],
-        "timeStamp" : 651965921.61821699,
         "wind" : 0
       },
       {
@@ -17269,6 +17269,22 @@
         "results" : [
           {
             "faan" : 4,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "獨聽"
+              }
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 4,
             "loserWind" : 0,
             "winHand" : [
               {
@@ -17285,29 +17301,13 @@
           },
           {
             "faan" : 4,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "獨聽"
-              }
-            ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 4,
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "莊"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "莊"
               },
               {
                 "handType" : "獨聽"
@@ -17479,7 +17479,7 @@
         "results" : [
           {
             "faan" : 5,
-            "loserWind" : 0,
+            "loserWind" : 2,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -17501,6 +17501,9 @@
             "loserWind" : 1,
             "winHand" : [
               {
+                "handType" : "自摸"
+              },
+              {
                 "handType" : "門清"
               },
               {
@@ -17508,20 +17511,14 @@
               },
               {
                 "handType" : "聽"
-              },
-              {
-                "handType" : "自摸"
               }
             ],
             "winnerWind" : 3
           },
           {
             "faan" : 5,
-            "loserWind" : 2,
+            "loserWind" : 0,
             "winHand" : [
-              {
-                "handType" : "門清"
-              },
               {
                 "handType" : "莊"
               },
@@ -17530,6 +17527,9 @@
               },
               {
                 "handType" : "自摸"
+              },
+              {
+                "handType" : "門清"
               }
             ],
             "winnerWind" : 3
@@ -17544,6 +17544,22 @@
         "finished" : true,
         "number" : 2,
         "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              }
+            ],
+            "winnerWind" : 1
+          },
           {
             "faan" : 4,
             "loserWind" : 0,
@@ -17561,33 +17577,17 @@
             "winnerWind" : 1
           },
           {
-            "faan" : 4,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "槓1"
-              },
-              {
-                "handType" : "花"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
             "faan" : 7,
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "自摸"
-              },
-              {
                 "handType" : "槓1"
               },
               {
                 "handType" : "花"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 1
@@ -17607,16 +17607,16 @@
             "loserWind" : 1,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "莊"
+              },
+              {
+                "handType" : "南"
               },
               {
                 "handType" : "季節"
               },
               {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "南"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 0
@@ -17636,10 +17636,10 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "花"
+                "handType" : "獨聽"
               },
               {
-                "handType" : "獨聽"
+                "handType" : "花"
               },
               {
                 "handType" : "聽"
@@ -17682,10 +17682,10 @@
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "白"
+                "handType" : "聽"
               },
               {
-                "handType" : "聽"
+                "handType" : "白"
               }
             ],
             "winnerWind" : 0
@@ -17741,16 +17741,16 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "東"
+                "handType" : "莊"
               },
               {
-                "handType" : "莊"
+                "handType" : "花"
               },
               {
                 "handType" : "聽"
               },
               {
-                "handType" : "花"
+                "handType" : "東"
               }
             ],
             "winnerWind" : 0
@@ -17897,10 +17897,10 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "獨聽"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "獨聽"
               }
             ],
             "winnerWind" : 1
@@ -18181,6 +18181,22 @@
         "results" : [
           {
             "faan" : 5,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "季節"
+              }
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 5,
             "loserWind" : 3,
             "winHand" : [
               {
@@ -18207,22 +18223,6 @@
               },
               {
                 "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 5,
-            "loserWind" : 1,
-            "winHand" : [
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "聽"
-              },
-              {
-                "handType" : "季節"
               }
             ],
             "winnerWind" : 2
@@ -18255,32 +18255,32 @@
           },
           {
             "faan" : 5,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "發"
-              },
-              {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 1
-          },
-          {
-            "faan" : 5,
             "loserWind" : 3,
             "winHand" : [
               {
                 "handType" : "發"
               },
               {
+                "handType" : "自摸"
+              },
+              {
                 "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "發"
               },
               {
                 "handType" : "自摸"
+              },
+              {
+                "handType" : "莊"
               }
             ],
             "winnerWind" : 1
@@ -18323,10 +18323,26 @@
             "loserWind" : 1,
             "winHand" : [
               {
+                "handType" : "自摸"
+              },
+              {
                 "handType" : "花"
               },
               {
                 "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "花"
               },
               {
                 "handType" : "自摸"
@@ -18343,22 +18359,6 @@
               },
               {
                 "handType" : "莊"
-              },
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 5,
-            "loserWind" : 0,
-            "winHand" : [
-              {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "花"
               },
               {
                 "handType" : "自摸"
@@ -18552,28 +18552,6 @@
         "number" : 3,
         "results" : [
           {
-            "faan" : 12,
-            "loserWind" : 2,
-            "winHand" : [
-              {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "槓1"
-              },
-              {
-                "handType" : "發"
-              },
-              {
-                "handType" : "聽"
-              }
-            ],
-            "winnerWind" : 3
-          },
-          {
             "faan" : 7,
             "loserWind" : 1,
             "winHand" : [
@@ -18581,7 +18559,26 @@
                 "handType" : "季節"
               },
               {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "發"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
                 "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 12,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "季節"
               },
               {
                 "handType" : "槓1"
@@ -18591,6 +18588,9 @@
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 3
@@ -18600,19 +18600,19 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "槓1"
+                "handType" : "發"
               },
               {
                 "handType" : "聽"
               },
               {
-                "handType" : "發"
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "季節"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 3
@@ -18768,13 +18768,13 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "南"
-              },
-              {
                 "handType" : "花"
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "南"
               }
             ],
             "winnerWind" : 1
@@ -18801,19 +18801,6 @@
         "number" : 2,
         "results" : [
           {
-            "faan" : 6,
-            "loserWind" : 3,
-            "winHand" : [
-              {
-                "handType" : "門清"
-              },
-              {
-                "handType" : "自摸"
-              }
-            ],
-            "winnerWind" : 0
-          },
-          {
             "faan" : 5,
             "loserWind" : 2,
             "winHand" : [
@@ -18829,6 +18816,19 @@
           {
             "faan" : 5,
             "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "門清"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 3,
             "winHand" : [
               {
                 "handType" : "門清"
@@ -18857,10 +18857,10 @@
                 "handType" : "莊"
               },
               {
-                "handType" : "白"
+                "handType" : "花"
               },
               {
-                "handType" : "花"
+                "handType" : "白"
               }
             ],
             "winnerWind" : 0
@@ -18996,8 +18996,8 @@
             "winnerWind" : 3
           },
           {
-            "faan" : 3,
-            "loserWind" : 0,
+            "faan" : 4,
+            "loserWind" : 1,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -19006,8 +19006,8 @@
             "winnerWind" : 3
           },
           {
-            "faan" : 4,
-            "loserWind" : 1,
+            "faan" : 3,
+            "loserWind" : 0,
             "winHand" : [
               {
                 "handType" : "自摸"
@@ -19056,8 +19056,30 @@
         "results" : [
           {
             "faan" : 7,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "北"
+              },
+              {
+                "handType" : "中"
+              }
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 7,
             "loserWind" : 0,
             "winHand" : [
+              {
+                "handType" : "莊"
+              },
               {
                 "handType" : "中"
               },
@@ -19066,9 +19088,6 @@
               },
               {
                 "handType" : "北"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 3
@@ -19078,35 +19097,16 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "中"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "莊"
               },
               {
                 "handType" : "北"
               },
               {
-                "handType" : "莊"
-              }
-            ],
-            "winnerWind" : 3
-          },
-          {
-            "faan" : 7,
-            "loserWind" : 1,
-            "winHand" : [
-              {
                 "handType" : "中"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "北"
-              },
-              {
-                "handType" : "莊"
               }
             ],
             "winnerWind" : 3
@@ -19157,13 +19157,13 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "白"
-              },
-              {
                 "handType" : "莊"
               },
               {
                 "handType" : "槓2"
+              },
+              {
+                "handType" : "白"
               },
               {
                 "handType" : "聽"
@@ -19238,13 +19238,13 @@
             "loserWind" : 1,
             "winHand" : [
               {
+                "handType" : "莊"
+              },
+              {
                 "handType" : "發"
               },
               {
                 "handType" : "聽"
-              },
-              {
-                "handType" : "莊"
               },
               {
                 "handType" : "槓1"
@@ -19264,30 +19264,27 @@
         "results" : [
           {
             "faan" : 8,
-            "loserWind" : 1,
+            "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "中"
-              },
-              {
-                "handType" : "自摸"
+                "handType" : "莊"
               },
               {
                 "handType" : "聽"
               },
               {
-                "handType" : "莊"
+                "handType" : "中"
+              },
+              {
+                "handType" : "自摸"
               }
             ],
             "winnerWind" : 2
           },
           {
             "faan" : 8,
-            "loserWind" : 0,
+            "loserWind" : 1,
             "winHand" : [
-              {
-                "handType" : "中"
-              },
               {
                 "handType" : "自摸"
               },
@@ -19296,6 +19293,9 @@
               },
               {
                 "handType" : "聽"
+              },
+              {
+                "handType" : "中"
               }
             ],
             "winnerWind" : 2
@@ -19305,16 +19305,16 @@
             "loserWind" : 3,
             "winHand" : [
               {
-                "handType" : "中"
+                "handType" : "自摸"
               },
               {
-                "handType" : "自摸"
+                "handType" : "莊"
               },
               {
                 "handType" : "聽"
               },
               {
-                "handType" : "莊"
+                "handType" : "中"
               }
             ],
             "winnerWind" : 2
@@ -19331,22 +19331,6 @@
         "results" : [
           {
             "faan" : 9,
-            "loserWind" : 0,
-            "winHand" : [
-              {
-                "handType" : "莊"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
-                "handType" : "聽"
-              }
-            ],
-            "winnerWind" : 2
-          },
-          {
-            "faan" : 9,
             "loserWind" : 3,
             "winHand" : [
               {
@@ -19364,6 +19348,22 @@
           {
             "faan" : 9,
             "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 2
+          },
+          {
+            "faan" : 9,
+            "loserWind" : 0,
             "winHand" : [
               {
                 "handType" : "莊"
@@ -19470,13 +19470,13 @@
             "loserWind" : 0,
             "winHand" : [
               {
-                "handType" : "聽"
-              },
-              {
                 "handType" : "花"
               },
               {
                 "handType" : "自摸"
+              },
+              {
+                "handType" : "聽"
               }
             ],
             "winnerWind" : 2
@@ -19516,29 +19516,10 @@
             "loserWind" : 2,
             "winHand" : [
               {
-                "handType" : "季節"
-              },
-              {
-                "handType" : "自摸"
-              },
-              {
                 "handType" : "花"
               },
               {
-                "handType" : "聽"
-              }
-            ],
-            "winnerWind" : 0
-          },
-          {
-            "faan" : 6,
-            "loserWind" : 3,
-            "winHand" : [
-              {
                 "handType" : "自摸"
-              },
-              {
-                "handType" : "花"
               },
               {
                 "handType" : "聽"
@@ -19554,7 +19535,26 @@
             "loserWind" : 1,
             "winHand" : [
               {
+                "handType" : "花"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
                 "handType" : "季節"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "花"
               },
               {
                 "handType" : "自摸"
@@ -19563,7 +19563,7 @@
                 "handType" : "聽"
               },
               {
-                "handType" : "花"
+                "handType" : "季節"
               }
             ],
             "winnerWind" : 0
@@ -19670,7 +19670,7 @@
           "results" : [
 
           ],
-          "timeStamp" : 654042083.84573102,
+          "timeStamp" : 654042083.84376395,
           "wind" : 0
         },
         {
@@ -19681,7 +19681,7 @@
           "results" : [
 
           ],
-          "timeStamp" : 654042083.84376395,
+          "timeStamp" : 654042083.84573102,
           "wind" : 0
         }
       ],
@@ -19689,13 +19689,6 @@
       "timeStamp" : 654042083.84563899,
       "wind" : 1,
       "windPlayers" : [
-        {
-          "player" : {
-            "name" : "胤含🎹",
-            "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
-          },
-          "wind" : 0
-        },
         {
           "player" : {
             "name" : "Bill",
@@ -19709,6 +19702,13 @@
             "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
           },
           "wind" : 2
+        },
+        {
+          "player" : {
+            "name" : "胤含🎹",
+            "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+          },
+          "wind" : 0
         },
         {
           "player" : {
@@ -19833,7 +19833,7 @@
         "results" : [
 
         ],
-        "timeStamp" : 654042083.84573102,
+        "timeStamp" : 654042083.84376395,
         "wind" : 0
       },
       {
@@ -19844,7 +19844,7 @@
         "results" : [
 
         ],
-        "timeStamp" : 654042083.84376395,
+        "timeStamp" : 654042083.84573102,
         "wind" : 0
       }
     ],
@@ -19877,6 +19877,753 @@
         "player" : {
           "name" : "泰亘",
           "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 0,
+    "location" : "Schreinerstraße 31",
+    "longitude" : 0,
+    "publicID" : "A973FF9D-42E2-4861-BBD3-3E93282AA3BE",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 654270844.37473702,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 2,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 0
+          }
+        ],
+        "timeStamp" : 654288348.252882,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 3,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "中"
+              },
+              {
+                "handType" : "東"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 654289216.58867395,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 4,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              }
+            ],
+            "winnerWind" : 0
+          }
+        ],
+        "timeStamp" : 654290002.87708795,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 2,
+    "timeStamp" : 654288007.60800803,
+    "wind" : 0,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "芸芸☁️",
+          "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "胤含🎹",
+          "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "晴嵐",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "Bill",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 52.515844834775294,
+    "location" : "Schreinerstraße 31",
+    "longitude" : 13.471609136898131,
+    "publicID" : "CC800966-EA0C-4986-A4CA-3741344ECDD1",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 654288002.613778,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 5,
+    "timeStamp" : 654288002.61357701,
+    "wind" : 0,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "芸芸☁️",
+          "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "胤含🎹",
+          "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "晴嵐",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "Bill",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "lastGame" : {
+      "publicID" : "85D10815-84DA-4125-B6CC-7C2575F4AE8A",
+      "rounds" : [
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 5,
+          "finished" : false,
+          "number" : 1,
+          "results" : [
+
+          ],
+          "timeStamp" : 654297190.97514999,
+          "wind" : 0
+        },
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 5,
+          "finished" : false,
+          "number" : 1,
+          "results" : [
+
+          ],
+          "timeStamp" : 654297190.97538197,
+          "wind" : 0
+        }
+      ],
+      "startDealer" : 5,
+      "timeStamp" : 654297190.97530794,
+      "wind" : 2,
+      "windPlayers" : [
+        {
+          "player" : {
+            "name" : "于輝☕️",
+            "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+          },
+          "wind" : 1
+        },
+        {
+          "player" : {
+            "name" : "晴嵐",
+            "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+          },
+          "wind" : 3
+        },
+        {
+          "player" : {
+            "name" : "泰亘",
+            "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+          },
+          "wind" : 0
+        },
+        {
+          "player" : {
+            "name" : "Bill",
+            "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+          },
+          "wind" : 2
+        }
+      ]
+    },
+    "latitude" : 52.515812335149647,
+    "location" : "Schreinerstraße 30",
+    "longitude" : 13.471510792849237,
+    "publicID" : "FB848381-96E4-4254-AD55-41C150CBE43C",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 654290723.46632099,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 1,
+        "results" : [
+          {
+            "faan" : 7,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "發"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "發"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "發"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 654290723.46599305,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 2,
+        "results" : [
+          {
+            "faan" : 6,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "中"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 654294547.09456503,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 3,
+        "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "南"
+              }
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 654295212.90931594,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : true,
+        "number" : 4,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              }
+            ],
+            "winnerWind" : 0
+          }
+        ],
+        "timeStamp" : 654296012.08246195,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 5,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              }
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 654296613.06276,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 0,
+    "timeStamp" : 654290723.46624196,
+    "wind" : 1,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "泰亘",
+          "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "Bill",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "晴嵐",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "lastGame" : {
+      "publicID" : "FB848381-96E4-4254-AD55-41C150CBE43C",
+      "rounds" : [
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 5,
+          "finished" : false,
+          "number" : 1,
+          "results" : [
+
+          ],
+          "timeStamp" : 654290723.46632099,
+          "wind" : 0
+        },
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 0,
+          "finished" : true,
+          "number" : 1,
+          "results" : [
+            {
+              "faan" : 7,
+              "loserWind" : 0,
+              "winHand" : [
+                {
+                  "handType" : "發"
+                },
+                {
+                  "handType" : "聽"
+                },
+                {
+                  "handType" : "槓1"
+                },
+                {
+                  "handType" : "自摸"
+                }
+              ],
+              "winnerWind" : 1
+            },
+            {
+              "faan" : 6,
+              "loserWind" : 3,
+              "winHand" : [
+                {
+                  "handType" : "槓1"
+                },
+                {
+                  "handType" : "聽"
+                },
+                {
+                  "handType" : "發"
+                },
+                {
+                  "handType" : "自摸"
+                }
+              ],
+              "winnerWind" : 1
+            },
+            {
+              "faan" : 6,
+              "loserWind" : 2,
+              "winHand" : [
+                {
+                  "handType" : "槓1"
+                },
+                {
+                  "handType" : "聽"
+                },
+                {
+                  "handType" : "發"
+                },
+                {
+                  "handType" : "自摸"
+                }
+              ],
+              "winnerWind" : 1
+            }
+          ],
+          "timeStamp" : 654290723.46599305,
+          "wind" : 0
+        },
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 2,
+          "finished" : true,
+          "number" : 4,
+          "results" : [
+            {
+              "faan" : 3,
+              "loserWind" : 1,
+              "winHand" : [
+                {
+                  "handType" : "聽"
+                }
+              ],
+              "winnerWind" : 0
+            }
+          ],
+          "timeStamp" : 654296012.08246195,
+          "wind" : 0
+        },
+        {
+          "dealerWinCount" : 1,
+          "dealerWind" : 1,
+          "finished" : true,
+          "number" : 3,
+          "results" : [
+            {
+              "faan" : 4,
+              "loserWind" : 3,
+              "winHand" : [
+                {
+                  "handType" : "聽"
+                },
+                {
+                  "handType" : "南"
+                }
+              ],
+              "winnerWind" : 2
+            }
+          ],
+          "timeStamp" : 654295212.90931594,
+          "wind" : 0
+        },
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 3,
+          "finished" : true,
+          "number" : 5,
+          "results" : [
+            {
+              "faan" : 3,
+              "loserWind" : 0,
+              "winHand" : [
+                {
+                  "handType" : "聽"
+                }
+              ],
+              "winnerWind" : 2
+            }
+          ],
+          "timeStamp" : 654296613.06276,
+          "wind" : 0
+        },
+        {
+          "dealerWinCount" : 0,
+          "dealerWind" : 1,
+          "finished" : true,
+          "number" : 2,
+          "results" : [
+            {
+              "faan" : 6,
+              "loserWind" : 0,
+              "winHand" : [
+                {
+                  "handType" : "莊"
+                },
+                {
+                  "handType" : "花"
+                },
+                {
+                  "handType" : "聽"
+                },
+                {
+                  "handType" : "中"
+                }
+              ],
+              "winnerWind" : 1
+            }
+          ],
+          "timeStamp" : 654294547.09456503,
+          "wind" : 0
+        }
+      ],
+      "startDealer" : 0,
+      "timeStamp" : 654290723.46624196,
+      "wind" : 1,
+      "windPlayers" : [
+        {
+          "player" : {
+            "name" : "泰亘",
+            "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+          },
+          "wind" : 0
+        },
+        {
+          "player" : {
+            "name" : "于輝☕️",
+            "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+          },
+          "wind" : 1
+        },
+        {
+          "player" : {
+            "name" : "晴嵐",
+            "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+          },
+          "wind" : 3
+        },
+        {
+          "player" : {
+            "name" : "Bill",
+            "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+          },
+          "wind" : 2
+        }
+      ]
+    },
+    "latitude" : 52.515832660806353,
+    "location" : "Schreinerstraße 30",
+    "longitude" : 13.471553201504296,
+    "publicID" : "85D10815-84DA-4125-B6CC-7C2575F4AE8A",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 654297190.97514999,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 654297190.97538197,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 5,
+    "timeStamp" : 654297190.97530794,
+    "wind" : 2,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "泰亘",
+          "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "Bill",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "晴嵐",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
         },
         "wind" : 3
       }
