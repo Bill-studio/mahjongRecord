@@ -19693,66 +19693,6 @@
     ]
   },
   {
-    "lastGame" : {
-      "publicID" : "325EC5C8-8C9C-4DC4-91F7-2AA5C4E197F8",
-      "rounds" : [
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 5,
-          "finished" : false,
-          "number" : 1,
-          "results" : [
-
-          ],
-          "timeStamp" : 654042083.84573102,
-          "wind" : 0
-        },
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 5,
-          "finished" : false,
-          "number" : 1,
-          "results" : [
-
-          ],
-          "timeStamp" : 654042083.84376395,
-          "wind" : 0
-        }
-      ],
-      "startDealer" : 5,
-      "timeStamp" : 654042083.84563899,
-      "wind" : 1,
-      "windPlayers" : [
-        {
-          "player" : {
-            "name" : "于輝☕️",
-            "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
-          },
-          "wind" : 2
-        },
-        {
-          "player" : {
-            "name" : "Bill🧢",
-            "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
-          },
-          "wind" : 1
-        },
-        {
-          "player" : {
-            "name" : "胤含🎹",
-            "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
-          },
-          "wind" : 0
-        },
-        {
-          "player" : {
-            "name" : "泰亘🎨",
-            "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
-          },
-          "wind" : 3
-        }
-      ]
-    },
     "latitude" : 52.515732345466439,
     "location" : "Schreinerstraße 31",
     "longitude" : 13.471552547546528,
@@ -19805,55 +19745,6 @@
     ]
   },
   {
-    "lastGame" : {
-      "publicID" : "D53D8F18-3F96-4FFC-9A89-747E78D123ED",
-      "rounds" : [
-        {
-          "dealerWinCount" : 3,
-          "dealerWind" : 5,
-          "finished" : false,
-          "number" : 1,
-          "results" : [
-
-          ],
-          "timeStamp" : 654039095.27607906,
-          "wind" : 0
-        }
-      ],
-      "startDealer" : 2,
-      "timeStamp" : 654039095.27628601,
-      "wind" : 0,
-      "windPlayers" : [
-        {
-          "player" : {
-            "name" : "泰亘🎨",
-            "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
-          },
-          "wind" : 3
-        },
-        {
-          "player" : {
-            "name" : "胤含🎹",
-            "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
-          },
-          "wind" : 0
-        },
-        {
-          "player" : {
-            "name" : "Bill🧢",
-            "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
-          },
-          "wind" : 1
-        },
-        {
-          "player" : {
-            "name" : "于輝☕️",
-            "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
-          },
-          "wind" : 2
-        }
-      ]
-    },
     "latitude" : 52.515832788003109,
     "location" : "Schreinerstraße 31",
     "longitude" : 13.471592026441042,
@@ -23011,66 +22902,6 @@
     ]
   },
   {
-    "lastGame" : {
-      "publicID" : "BC6E1BA7-B577-458F-9530-73C45234C015",
-      "rounds" : [
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 5,
-          "finished" : false,
-          "number" : 1,
-          "results" : [
-
-          ],
-          "timeStamp" : 657144922.63663805,
-          "wind" : 0
-        },
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 5,
-          "finished" : false,
-          "number" : 1,
-          "results" : [
-
-          ],
-          "timeStamp" : 657144922.63687098,
-          "wind" : 0
-        }
-      ],
-      "startDealer" : 5,
-      "timeStamp" : 657144922.63679302,
-      "wind" : 2,
-      "windPlayers" : [
-        {
-          "player" : {
-            "name" : "胤含🎹",
-            "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
-          },
-          "wind" : 3
-        },
-        {
-          "player" : {
-            "name" : "于輝☕️",
-            "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
-          },
-          "wind" : 0
-        },
-        {
-          "player" : {
-            "name" : "芸芸☁️",
-            "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
-          },
-          "wind" : 2
-        },
-        {
-          "player" : {
-            "name" : "Bill🧢",
-            "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
-          },
-          "wind" : 1
-        }
-      ]
-    },
     "latitude" : 52.515778326606416,
     "location" : "Schreinerstraße 31",
     "longitude" : 13.471643795105416,
@@ -23291,169 +23122,6 @@
     ]
   },
   {
-    "lastGame" : {
-      "publicID" : "D3D9C4A5-8333-4C97-B4AE-09044EBE1B70",
-      "rounds" : [
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 1,
-          "finished" : true,
-          "number" : 4,
-          "results" : [
-            {
-              "faan" : 4,
-              "loserWind" : 2,
-              "winHand" : [
-                {
-                  "handType" : "花"
-                },
-                {
-                  "handType" : "聽"
-                },
-                {
-                  "handType" : "自摸"
-                }
-              ],
-              "winnerWind" : 0
-            },
-            {
-              "faan" : 4,
-              "loserWind" : 3,
-              "winHand" : [
-                {
-                  "handType" : "花"
-                },
-                {
-                  "handType" : "聽"
-                },
-                {
-                  "handType" : "自摸"
-                }
-              ],
-              "winnerWind" : 0
-            },
-            {
-              "faan" : 5,
-              "loserWind" : 1,
-              "winHand" : [
-                {
-                  "handType" : "花"
-                },
-                {
-                  "handType" : "自摸"
-                },
-                {
-                  "handType" : "聽"
-                }
-              ],
-              "winnerWind" : 0
-            }
-          ],
-          "timeStamp" : 657144355.80351198,
-          "wind" : 0
-        },
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 0,
-          "finished" : true,
-          "number" : 3,
-          "results" : [
-            {
-              "faan" : 1,
-              "loserWind" : 3,
-              "winHand" : [
-
-              ],
-              "winnerWind" : 1
-            }
-          ],
-          "timeStamp" : 657143971.36156905,
-          "wind" : 0
-        },
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 3,
-          "finished" : true,
-          "number" : 2,
-          "results" : [
-            {
-              "faan" : 2,
-              "loserWind" : 1,
-              "winHand" : [
-                {
-                  "handType" : "花"
-                }
-              ],
-              "winnerWind" : 2
-            }
-          ],
-          "timeStamp" : 657143538.09415901,
-          "wind" : 0
-        },
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 5,
-          "finished" : false,
-          "number" : 1,
-          "results" : [
-
-          ],
-          "timeStamp" : 657142879.60860205,
-          "wind" : 0
-        },
-        {
-          "dealerWinCount" : 0,
-          "dealerWind" : 2,
-          "finished" : true,
-          "number" : 1,
-          "results" : [
-            {
-              "faan" : 1,
-              "loserWind" : 0,
-              "winHand" : [
-
-              ],
-              "winnerWind" : 3
-            }
-          ],
-          "timeStamp" : 657142879.60936701,
-          "wind" : 0
-        }
-      ],
-      "startDealer" : 2,
-      "timeStamp" : 657142879.60930002,
-      "wind" : 1,
-      "windPlayers" : [
-        {
-          "player" : {
-            "name" : "芸芸☁️",
-            "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
-          },
-          "wind" : 2
-        },
-        {
-          "player" : {
-            "name" : "于輝☕️",
-            "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
-          },
-          "wind" : 0
-        },
-        {
-          "player" : {
-            "name" : "胤含🎹",
-            "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
-          },
-          "wind" : 3
-        },
-        {
-          "player" : {
-            "name" : "Bill🧢",
-            "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
-          },
-          "wind" : 1
-        }
-      ]
-    },
     "latitude" : 52.515788616964016,
     "location" : "Schreinerstraße 30",
     "longitude" : 13.471452836308719,
@@ -23472,8 +23140,8 @@
       },
       {
         "dealerWinCount" : 0,
-        "dealerWind" : 5,
-        "finished" : false,
+        "dealerWind" : 0,
+        "finished" : true,
         "number" : 1,
         "publicID" : "290C30ED-FEFF-4F96-9C07-79691E509F97",
         "results" : [
@@ -23481,11 +23149,208 @@
         ],
         "timeStamp" : 657144922.63687098,
         "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 2,
+        "results" : [
+          {
+            "faan" : 2,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 657404496.07734394,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 3,
+        "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              }
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 5,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              }
+            ],
+            "winnerWind" : 3
+          },
+          {
+            "faan" : 4,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              }
+            ],
+            "winnerWind" : 3
+          }
+        ],
+        "timeStamp" : 657405052.91909301,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : true,
+        "number" : 4,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 4,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "自摸"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 657405627.58901596,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 5,
+        "results" : [
+          {
+            "faan" : 1,
+            "loserWind" : 0,
+            "winHand" : [
+
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 657406117.12297499,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 0,
+    "timeStamp" : 657403893.86227596,
+    "wind" : 0,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "晟育",
+          "publicID" : "5CDAF227-574F-4673-BEE6-65522AAF672C"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "胤含🎹",
+          "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "晴嵐🏺",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "泰亘🎨",
+          "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 0,
+    "longitude" : 0,
+    "publicID" : "0BC6E053-E361-44BE-BCEA-EFCF88027502",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "publicID" : "AE7CD3CF-4DCA-44A1-A593-7710E0F779F5",
+        "results" : [
+
+        ],
+        "timeStamp" : 657403539.721264,
+        "wind" : 0
       }
     ],
     "startDealer" : 5,
-    "timeStamp" : 657144922.63679302,
-    "wind" : 2,
+    "timeStamp" : 657403539.71338701,
+    "wind" : 0,
     "windPlayers" : [
       {
         "player" : {
@@ -23512,6 +23377,460 @@
         "player" : {
           "name" : "胤含🎹",
           "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 52.51575934505982,
+    "location" : "Schreinerstraße 30",
+    "longitude" : 13.471542583287846,
+    "publicID" : "CE9C4B33-7507-4784-ACC0-CCC6E82F93D4",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "publicID" : "81EFB3EE-2EEE-4B63-8550-FB06725048B4",
+        "results" : [
+
+        ],
+        "timeStamp" : 657403599.04871798,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 5,
+    "timeStamp" : 657403599.04862499,
+    "wind" : 0,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "Bill🧢",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "芸芸☁️",
+          "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "胤含🎹",
+          "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 52.51575063026857,
+    "location" : "Schreinerstraße 31",
+    "longitude" : 13.471653049625214,
+    "publicID" : "5442DD0A-2CC6-4F76-98BB-D5DCFA12DD0A",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "publicID" : "70116667-4F65-43D1-9620-9EB768FF4940",
+        "results" : [
+
+        ],
+        "timeStamp" : 657403661.08010805,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 5,
+    "timeStamp" : 657403661.080042,
+    "wind" : 0,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "晟育",
+          "publicID" : "5CDAF227-574F-4673-BEE6-65522AAF672C"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "芸芸☁️",
+          "publicID" : "8B195E6F-4E11-4343-9065-AF63A4A33BA8"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "胤含🎹",
+          "publicID" : "459AAB5A-A424-4A78-9058-AAE8595683C6"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 0,
+    "location" : "Schreinerstraße 31",
+    "longitude" : 0,
+    "publicID" : "4CC78CA3-71DD-4CF7-AF67-28186D27044C",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 657406638.63784695,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 2,
+        "finished" : true,
+        "number" : 1,
+        "publicID" : "475CE934-077B-40F3-A438-B83749246BA7",
+        "results" : [
+          {
+            "faan" : 4,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "白"
+              }
+            ],
+            "winnerWind" : 0
+          }
+        ],
+        "timeStamp" : 657406638.64355898,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 3,
+        "finished" : true,
+        "number" : 2,
+        "results" : [
+          {
+            "faan" : 3,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 657407331.14825296,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 3,
+        "results" : [
+
+        ],
+        "timeStamp" : 657407835.76291096,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 0,
+        "finished" : true,
+        "number" : 4,
+        "results" : [
+          {
+            "faan" : 6,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 657408633.83113694,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 5,
+        "results" : [
+          {
+            "faan" : 6,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 6,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "獨聽"
+              },
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 657409077.09514904,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 1,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 6,
+        "results" : [
+          {
+            "faan" : 7,
+            "loserWind" : 0,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 7,
+            "loserWind" : 2,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          },
+          {
+            "faan" : 7,
+            "loserWind" : 3,
+            "winHand" : [
+              {
+                "handType" : "自摸"
+              },
+              {
+                "handType" : "花"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 1
+          }
+        ],
+        "timeStamp" : 657409481.72109699,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 2,
+        "dealerWind" : 1,
+        "finished" : true,
+        "number" : 7,
+        "results" : [
+          {
+            "faan" : 10,
+            "loserWind" : 1,
+            "winHand" : [
+              {
+                "handType" : "中"
+              },
+              {
+                "handType" : "槓1"
+              },
+              {
+                "handType" : "聽"
+              },
+              {
+                "handType" : "莊"
+              }
+            ],
+            "winnerWind" : 2
+          }
+        ],
+        "timeStamp" : 657409951.82618201,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 2,
+    "timeStamp" : 657406638.63867998,
+    "wind" : 1,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "晴嵐🏺",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "Bill🧢",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "泰亘🎨",
+          "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
+        },
+        "wind" : 3
+      }
+    ]
+  },
+  {
+    "latitude" : 52.515780645170295,
+    "location" : "Schreinerstraße 31",
+    "longitude" : 13.471633342030609,
+    "publicID" : "A5A0605E-03D4-4C00-99D6-92B7F9C89604",
+    "rounds" : [
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "results" : [
+
+        ],
+        "timeStamp" : 657410469.02230406,
+        "wind" : 0
+      },
+      {
+        "dealerWinCount" : 0,
+        "dealerWind" : 5,
+        "finished" : false,
+        "number" : 1,
+        "publicID" : "998F3538-1A6D-466B-9E71-6DE111EF5063",
+        "results" : [
+
+        ],
+        "timeStamp" : 657410469.02252603,
+        "wind" : 0
+      }
+    ],
+    "startDealer" : 5,
+    "timeStamp" : 657410469.02244794,
+    "wind" : 2,
+    "windPlayers" : [
+      {
+        "player" : {
+          "name" : "晴嵐🏺",
+          "publicID" : "2C60FAD2-9521-4BE6-9ED5-5EC96C928E26"
+        },
+        "wind" : 0
+      },
+      {
+        "player" : {
+          "name" : "Bill🧢",
+          "publicID" : "EAA30AE7-F186-49BF-97D8-BA857A3EA621"
+        },
+        "wind" : 1
+      },
+      {
+        "player" : {
+          "name" : "于輝☕️",
+          "publicID" : "6CA6D8F2-C356-4DEE-B6E7-36ACCBB9FBC3"
+        },
+        "wind" : 2
+      },
+      {
+        "player" : {
+          "name" : "泰亘🎨",
+          "publicID" : "42724587-90BF-4CE2-BF28-4979B39C7891"
         },
         "wind" : 3
       }
